@@ -1,5 +1,4 @@
-# Movie Recommendation System
-# Collaborative Filtering & Matrix Factorization (SVD)
+# Movie Recommendation System Collaborative Filtering & Matrix Factorization (SVD)
 
 ## Introduction
 Developed a personalized movie recommender using the MovieLens 100K dataset. The system predicts user ratings and suggests top-rated unseen movies by modeling user-item interactions and uncovering latent preferences. Combined statistical modeling with user-centric design to enhance recommendation accuracy.
